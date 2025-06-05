@@ -14,11 +14,11 @@ Latent spaces facilitate tasks like anomaly detection, data generation, and feat
 
 ### What this Project Does Specifically
 
-In a Jupyter notebook, I use two methods of latent space generation: Principal Component Analysis (PCA) and t-Distributed Stochastic Neighbor Embedding(t-SNE) to project high-dimensional, three-dimensional MNIST datasets into a lower two-dimensional space for visualization.
+In a Jupyter notebook, I use two methods of latent space generation: Principal Component Analysis (PCA) and t-Distributed Stochastic Neighbor Embedding (t-SNE) to project high dimensional (in this case three dimension) MNIST datasets into a lower two dimensional space for visualization.
 
 #### The PCA Section of the Notebook
 
-Helps in understanding the principal components and overall variance in the latent space.
+Helps in understanding principal components and overall variance in the latent space.
 
 In this section, I visualize the latent space using PCA by following these steps:
 
@@ -146,13 +146,13 @@ Follow the requirements for using TensorFlow [here](https://www.tensorflow.org/i
 
 1. **Run the Project**
 
-   - Run `visualizing_latent_space.ipynb` in Jupyter
+   - Run `visualizing_latent_space.ipynb` in Jupyter Notebook UI or in VS code.
 
 ---
 
 ## Special Notes
 
-- Including`requirements.txt` file as there are unique considerations when using the `TensorFlow` library and just in case there any issues.
+- Including`requirements.txt` file as there are unique considerations when using the `TensorFlow` library. Plus, just in case you run into issues wth the `pyproject.toml` file there is the ability to use the requirements file as well to build the virtual environment.
 
 - Running this notebook took approximately 25 minutes to run using an Apple M4 Pro with macOS Sequoia. Depending on the processor(s) that you are running this time will vary.
 
@@ -173,6 +173,8 @@ You've `beenlanced`! 😉
 I would like to extend my gratitude to all the individuals and organizations who helped in the development and success of this project. Your support, whether through contributions, inspiration, or encouragement, have been invaluable. Thank you.
 
 Specifically, I would like to acknowledge:
+
+- [geeksforgeeks](https://www.geeksforgeeks.org/what-is-latent-space-in-deep-learning/). This project was based off of their code which made it super convenient to test out my code against known results. Kudos and Thanks!
 
 - [Hema Kalyan Murapaka](https://www.linkedin.com/in/hemakalyan) and [Benito Martin](https://martindatasol.com/blog) for sharing their README.md templates upon which I have derieved my README.md.
 
