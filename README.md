@@ -65,7 +65,7 @@ The project contains the key elements:
 - `Keras` to build autoencoder and layers,
 - `Matplotlib` visualization of spaces,
 - `MNIST` dataset to test visualization,
-- `Numpy` for
+- `Numpy` for arrays and numerical operations,
 - `Python` the standard modules,
 - `Scikit-Learn` for PCA and TSNE modules and to get training and test datasets,
 - `TensorFlow` to build autoencoder and layers
