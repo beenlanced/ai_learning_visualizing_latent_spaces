@@ -127,7 +127,8 @@ Follow the requirements for using TensorFlow [here](https://www.tensorflow.org/i
    On Windows:
 
    ```bash
-   source .venv/bin/activate #mac
+    # In cmd.exe
+    venv\Scripts\activate.bat
    ```
 
 4. Install packages using `pyproject.toml` or (see special notes section)
