@@ -177,7 +177,7 @@ Specifically, I would like to acknowledge:
 
 - [geeksforgeeks](https://www.geeksforgeeks.org/what-is-latent-space-in-deep-learning/). This project was based off of their code which made it super convenient to test out my code against known results. Kudos and Thanks!
 
-- [Hema Kalyan Murapaka](https://www.linkedin.com/in/hemakalyan) and [Benito Martin](https://martindatasol.com/blog) for sharing their README.md templates upon which I have derieved my README.md.
+- [Hema Kalyan Murapaka](https://www.linkedin.com/in/hemakalyan) and [Benito Martin](https://martindatasol.com/blog) for sharing their README.md templates upon which I have derived my README.md.
 
 - The folks at Astral for their UV [documentation](https://docs.astral.sh/uv/)
 
