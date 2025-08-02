@@ -118,7 +118,7 @@ Follow the requirements for using TensorFlow [here](https://www.tensorflow.org/i
 
 3. Activate the virtual environment: `.venv`
 
-   On macOs and Linux:
+   On macOS and Linux:
 
    ```bash
    source .venv/bin/activate #mac
